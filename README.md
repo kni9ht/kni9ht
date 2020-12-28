@@ -5,7 +5,7 @@
 
 - 🔭 I'm an engeenering student currenty studing in 3rd year
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 UI/UX Fan 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ I love to play football 
 
