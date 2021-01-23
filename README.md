@@ -1,7 +1,7 @@
 ### Hi there, I'm Yogesh Jadhav - aka [kni9ht]👋
 
 
-## I'm a Student, Designer, Developer, and Football Player!!
+## I'm a Student, Designer, Developer, and Sportsman!!
 
 - 🔭 I'm an engeenering student currenty studing in 3rd year
 - 🌱 I’m currently learning everything 🤣
