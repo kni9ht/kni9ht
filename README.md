@@ -96,5 +96,5 @@
 
 [twitter]: https://twitter.com/YogeshJ52086691
 [youtube]: https://www.youtube.com/channel/UCip39icKKqnZwrwcXtGA5CQ/
-[instagram]: https://instagram.com/wuntap
+[instagram]: https://instagram.com/iamyogeshjadhav
 [linkedin]: https://linkedin.com/in/yogesh-jadhav-7b76b91a1
