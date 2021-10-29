@@ -1,4 +1,4 @@
-### Hi there, I'm Yogesh Jadhav - aka [kni9ht]👋
+### Hi there, I'm Yogesh Jadhav - aka [kni9ht]![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 ## I'm a Student, Designer, Developer, and Sportsman!!
