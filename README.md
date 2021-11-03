@@ -4,7 +4,7 @@
 
 ## I'm a Student, Designer, Developer, and Sportsman!!
 
-- 🔭 I'm an engeenering student currenty studing in 3rd year
+- 🔭 I'm an engeenering student currenty studing in final year
 - 🌱 I’m currently learning everything 🤣
 - 👯 UI/UX Beginner
 - ⚡ 2021 Goals: Contribute more to Open Source projects
