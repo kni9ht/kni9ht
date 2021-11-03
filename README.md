@@ -10,9 +10,9 @@
 - ⚡ 2021 Goals: Contribute more to Open Source projects
 - 🥅 I love to play football 
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="kni9ht Spotify Playing" width="350" />](https://open.spotify.com/user/31tphlyqwmvlema5w565sozwl7uu)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="kni9ht Spotify Playing" width="350" />](https://open.spotify.com/user/31tphlyqwmvlema5w565sozwl7uu) -->
 
 ### Connect with me:
 
@@ -57,7 +57,7 @@
 
 ➡️ [more videos...](https://youtube.com/codestackr)-->
 
-<!--
+<!-- 
 ### 📕 Latest Blog Posts
 
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -67,10 +67,10 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 
 ➡️ [more blog posts...](https://codestackr.com)
--->
+ -->
 
-<!--
-<details>
+
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 
@@ -81,8 +81,8 @@
 5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 
 
-</details>
--->
+</details> -->
+
 
 
 <br />
