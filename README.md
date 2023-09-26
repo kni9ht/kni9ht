@@ -3,8 +3,8 @@
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-###  Watch my Contribution Graph get eaten by the snake 🥳
-![snake gif](https://raw.githubusercontent.com/kni9ht/kni9ht/output/github-contribution-grid-snake.svg)
+<!--###  Watch my Contribution Graph get eaten by the snake 🥳
+![snake gif](https://raw.githubusercontent.com/kni9ht/kni9ht/output/github-contribution-grid-snake.svg)-->
 
 <a><h2>Stats</h2></a>
 <div>
@@ -120,11 +120,11 @@
 </br>	
 
 	
-<div>
+<!--<div>
     <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=kni9ht&row=4&theme=onedark&no-frame=true"/>
-</div>
+</div>-->
 
 
 </br>
