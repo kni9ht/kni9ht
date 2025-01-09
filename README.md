@@ -11,12 +11,12 @@ I completed my Bachelor of Engineering in Computer Science and Engineering from 
 
  **I am open to**:
 
+- Soware development Freelance work
+- CyberSecurity roles [Full Time]
+- Software development roles [Full Time]
 - Any collaboration work
 - Machine Learning projects(development or research),
 - Research internships
-- Software development roles [Full Time]
-- CyberSecurity roles [Full Time]
-- Soware development Freelance work
 
 ## Skills:
 
