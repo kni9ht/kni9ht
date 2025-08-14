@@ -71,4 +71,8 @@ I completed my Bachelor of Engineering in Computer Science and Engineering from 
 </p>
 
 | <a href="https://github.com/kni9ht/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kni9ht&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- |
+| <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture> |
