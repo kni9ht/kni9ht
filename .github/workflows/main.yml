@@ -1,31 +1,36 @@
-name: Generate Snake Animation
+name: Generate Snake
 
+# Controls when the action will run
 on:
   schedule:
-    - cron: '0 0 * * *'   # Runs daily at midnight UTC
-  workflow_dispatch:     # Allows manual trigger
+    # every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v3
+      # Checkout repository
+      - uses: actions/checkout@v3
 
-      - name: Generate snake animation
-        uses: Platane/snk@v3
+      # Generate the snake
+      - uses: Platane/snk@v3
         with:
-          github_user_name: kni9ht           # Your GitHub username
+          github_user_name: kni9ht
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Commit and push generated assets
+      # Show the status (for debugging)
+      - run: git status
+
+      # Push the changes back to the repo
+      - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           force: true
-          commit_message: "chore: Update generated snake contribution graph"
