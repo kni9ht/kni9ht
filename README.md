@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kni9ht/kni9ht/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kni9ht/kni9ht/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/kni9ht/kni9ht/output/github-contribution-grid-snake.svg" />
+</picture>
 ### Hi there, I'm [Yogesh Jadhav](https://github.com/kni9ht) 👋
 
 I completed my Bachelor of Engineering in Computer Science and Engineering from [Pillai HOC college of Engineering and Research](https://phcet.ac.in/), Rasayani. Apart from that, I am a seasonal developer who loves writing articles (on CyberSecurity, System Software, Software development practices) and contributing to open source.
@@ -71,8 +76,3 @@ I completed my Bachelor of Engineering in Computer Science and Engineering from 
 </p>
 
 <a href="https://github.com/kni9ht/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kni9ht&layout=compact&theme=buefy&hide_border=true" /></a> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kni9ht/kni9ht/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kni9ht/kni9ht/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/kni9ht/kni9ht/output/github-contribution-grid-snake.svg" />
-</picture>
